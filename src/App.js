@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        hi
+    <header></header>
         <main><Dictionary /></main>
         <footer>coded by esther</footer>
     </div>
