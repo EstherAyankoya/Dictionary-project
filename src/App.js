@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-    <header></header>
-        <main><Dictionary /></main>
+    <header>Esther's Dictionary App</header>
+        <main><Dictionary defaultKeyword="hello" /></main>
         <footer>coded by esther</footer>
     </div>
     </div>
